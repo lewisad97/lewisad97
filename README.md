@@ -1,7 +1,7 @@
 - 👋 My name is Lewis Dickens.
-- 👀 I’m an aspiring Software Developer.
+- 👀 I love tech and learning new skill within it, due to this my goal is to have a career in the tech industry.
 - 🌱 After teaching myself HTML and CSS I am now learning Bootstrap then evetually JavaScript and React.
-- 💞️ I am very intrested in learning new technologies within Software Development and will be open to collaborate with anyone new to their journey in learning to code such as myself.
+- 💞️ I am very intrested in learning new technologies and aim to contribute to open source.
 - 📫 Please feel free to contact me...lewisad97@hotmail.com.
 
 <!---
