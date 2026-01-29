@@ -8,7 +8,7 @@ I’m actively developing my skills through practical projects involving embedde
 
 Electronic circuit design and schematic development using KiCad
 
-Embedded programming in C++ and application development in Python
+
 
 Hands‑on prototyping with Elegoo microcontrollers, sensors, and a wide range of electronic components
 
