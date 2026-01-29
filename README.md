@@ -12,7 +12,7 @@ Electronic circuit design and schematic development using KiCad
 
 Hands‑on prototyping with Elegoo microcontrollers, sensors, and a wide range of electronic components
 
-Power electronics, PCB design, and system‑level debugging
+Electronics and system‑level debugging
 
 🎯 What I’m working toward  
 I’m building a portfolio of real, working engineering projects to demonstrate my problem‑solving ability, technical depth, and commitment to continuous learning.
